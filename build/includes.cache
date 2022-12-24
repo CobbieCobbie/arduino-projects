@@ -1,0 +1,47 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Cobbie\\git\\arduino-projects\\build\\sketch\\PixelLED.ino.cpp",
+    "Include": "Adafruit_NeoPixel.h",
+    "Includepath": "C:\\Users\\Cobbie\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Cobbie\\git\\arduino-projects\\build\\sketch\\PixelLED.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Cobbie\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\Adafruit_NeoPixel.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Cobbie\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\esp.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Cobbie\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\esp8266.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Cobbie\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\kendyte_k210.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Cobbie\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\rp2040.c",
+    "Include": "",
+    "Includepath": null
+  }
+]
